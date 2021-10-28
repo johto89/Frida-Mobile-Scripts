@@ -1,4 +1,5 @@
 /*
+ * Bypass Facebook SSL Pinning for iOS
  * fb-ios-pinning-2021.js
  *
  * Tells Liger not to handle URLs which defaults to NSURLs
